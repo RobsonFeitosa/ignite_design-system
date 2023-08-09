@@ -11,6 +11,9 @@
     "lint": "eslint src/**/*.ts* --fix"
   },
   "keywords": [],
+  "files": [
+    "dist"
+  ],
   "author": "",
   "license": "MIT",
   "devDependencies": {
