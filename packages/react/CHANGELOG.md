@@ -4,6 +4,12 @@
 
 ### Minor Changes
 
+- Add file tag
+
+## 3.2.0
+
+### Minor Changes
+
 - Remove file package
 
 ## 3.1.0

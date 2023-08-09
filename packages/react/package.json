@@ -12,6 +12,9 @@
   },
   "keywords": [],
   "author": "",
+  "files": [
+    "dist"
+  ],
   "license": "MIT",
   "devDependencies": {
     "@alosix-ui/eslint-config": "*",
