@@ -1,5 +1,11 @@
 # @alosix-ui/react
 
+## 3.4.0
+
+### Minor Changes
+
+- fix: size input component change props
+
 ## 3.3.0
 
 ### Minor Changes
