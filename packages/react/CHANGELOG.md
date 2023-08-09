@@ -1,5 +1,11 @@
 # @alosix-ui/react
 
+## 3.4.1
+
+### Patch Changes
+
+- Fix fix
+
 ## 3.4.0
 
 ### Minor Changes

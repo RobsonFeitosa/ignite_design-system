@@ -3,7 +3,7 @@
 
 - Create changeset mode
 ```bash
-  npm run changet
+  npm run changeset
 ```
 - Create version packages
 ```bash
