@@ -1,5 +1,21 @@
 # @alosix-ui/react
 
+## 3.1.0
+
+### Minor Changes
+
+- Change position File package
+
+## 3.0.0
+
+### Major Changes
+
+- Ts
+
+### Minor Changes
+
+- File dist package
+
 ## 2.0.1
 
 ### Patch Changes

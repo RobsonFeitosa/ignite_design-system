@@ -1,6 +1,6 @@
 {
   "name": "@alosix-ui/react",
-  "version": "2.0.1",
+  "version": "3.1.0",
   "description": "",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -11,10 +11,10 @@
     "lint": "eslint src/**/*.ts* --fix"
   },
   "keywords": [],
+  "author": "",
   "files": [
     "dist"
   ],
-  "author": "",
   "license": "MIT",
   "devDependencies": {
     "@alosix-ui/eslint-config": "*",
